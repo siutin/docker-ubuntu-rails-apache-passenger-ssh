@@ -1,6 +1,6 @@
 FROM siutin/ubuntu-rails-apache-passenger:latest
 MAINTAINER Martin Chan <osiutino@gmail.com>
-ENV REFRESHED_AT 2015-04-03
+ENV REFRESHED_AT 2016-09-03
 
 USER root
 
